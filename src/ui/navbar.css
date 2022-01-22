@@ -1,0 +1,32 @@
+nav {
+	background-color: #ff0000;
+	overflow: auto;
+	flex: auto;
+	display: block;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0%;
+	padding: 0%;
+	overflow: hidden;
+	flex: auto;
+}
+
+li {
+	float: left;
+	padding: 8px;
+	text-align: center;
+}
+
+li a {
+	display: inline;
+}
+
+li a:hover {
+	color: #ff00ff;
+}
+
+ul div {
+	float: right;
+}

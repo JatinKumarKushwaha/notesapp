@@ -1,0 +1,28 @@
+#cards-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#cards {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin: 1%;
+	padding: 2%;
+	box-shadow: none;
+	border: 0.8px solid #0000ff;
+	transition: box-shadow 1s;
+}
+
+#cards:hover {
+	box-shadow:20px 20px 10px grey;
+}
+
+#cards-header {
+	margin: 1%;
+	color: #ff00ff;
+}
+
+#cards-content {
+	color: #eef103;
+}

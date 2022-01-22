@@ -1,2 +1,2 @@
 # notesapp
-A web based notesapp
+A web based notes app.
